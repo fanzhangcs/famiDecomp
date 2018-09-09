@@ -3,7 +3,7 @@ The code is for graph decomposition by k-fami which is published in the paper "D
 
 
 # files
-khash.h - a hash table from https://github.com/clibs/hash
+khash.h - a hash table from https://github.com/attractivechaos/klib
 
 famiDecomp.cpp - source code 
 
