@@ -14,13 +14,6 @@ Copyright (c) of 2018 by Fan Zhang <fanzhang.cs@gmail.com>
 #include <fstream>
 #include "khash.h"
 
-#define testProg 1//0:automation, 1:manual test
-#define algorithmChoice 2//0:given k and s, 1:with (k,k-1)-core decomp index, 2: (k,k-1)-core decomp (k-fami), 3: compute k-core, 4: core decomp, 5: compute k-truss
-#define computeScore 1//compute active user rate, modularity and cc
-#define assesss 0//1:open
-#define outputYelp 0
-#define outputDBLP 0
-
 using namespace std;
 
 long anchorID;
